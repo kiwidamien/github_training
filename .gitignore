@@ -1,0 +1,11 @@
+# Ignore python intermediate files
+__pycache__/
+.ipynb_checkpoints/*
+*.pyc
+
+# Ignore emacs style swap file
+*~
+# Ignore vim style swap files
+*.swap
+# Ignore MS Office swap files
+~$*
