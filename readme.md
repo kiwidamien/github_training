@@ -13,3 +13,7 @@ The original data is stored at `data/boston_house_prices.csv`
 ## Jupyter notebook
 
 The Jupyter notebook `Linear_regression_on_housing.ipynb` contains the our analysis. In particular, you can find an estimate of the range of values that the coefficients have (in natural units) in the bootstrapping section.
+
+## Results
+
+The 95% confidence intervals are generated and available [here](confidence_intervals.html)
